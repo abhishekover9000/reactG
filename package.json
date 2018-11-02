@@ -1,5 +1,5 @@
 {
-  "name": "reactg",
+  "name": "@abhishekover9000/reactgc",
   "version": "1.0.0",
   "description": "Automate boilerplate generation of react component",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Abhishek Chowdhury",
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security"
